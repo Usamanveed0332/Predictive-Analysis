@@ -1,0 +1,1 @@
+This project aims to analyze a bank's marketing campaign data and predict whether a customer will subscribe to a term deposit based on various features such as demographics, past marketing interactions, and economic indicators.
